@@ -10,6 +10,8 @@ The image from the summary DataFrame shows that rural cities had the least numbe
  
  ![Picture1](https://user-images.githubusercontent.com/96086671/165370560-4b867d1e-394f-4013-bd99-56de172fc16e.png)
  
+ 
+ 
 
 ![Picture2](https://user-images.githubusercontent.com/96086671/165370687-4111dbe6-156a-4f26-86b2-fb41c887c224.png)
 
